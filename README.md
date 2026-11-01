@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Idham
+# Hi! I'm Idham
 
 - Computer Science Student  
 - Building AI-powered, real-time, and data-driven systems across mobile, web, and IoT  
