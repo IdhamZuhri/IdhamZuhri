@@ -1,4 +1,4 @@
-# Hi, I'm Idham
+# Hi! I'm Idham
 
 - Bachelor of Computer Science (Hons.)
 - Building AI-powered, real-time, and data-driven systems across mobile, web, and IoT
