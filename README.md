@@ -2,7 +2,7 @@
 
 - Bachelor of Computer Science (Hons.)
 - Building AI-powered, real-time, and data-driven systems across mobile, web, and IoT
-- Focused on practical, real-world applications
+- Focused on practical, and real-world applications
 
 ---
 
